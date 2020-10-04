@@ -10,9 +10,5 @@
     }
   },
   "image": "nirui/sshwifty",
-  "buildpacks": [
-    {
-      "url": "heroku/nodejs"
-    }
-  ]
+  "stack": "container"
 }
