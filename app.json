@@ -9,6 +9,5 @@
        "value": "password"
     }
   },
-  "image": "nirui/sshwifty",
   "stack": "container"
 }
