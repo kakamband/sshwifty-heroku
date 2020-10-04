@@ -10,6 +10,5 @@
   },
   "website": "https://github.com/nirui/sshwifty",
   "repository": "https://github.com/zwypfdsj/sshwifty-heroku",
-  "image": "niruix/sshwifty",
-  "success_url": "/"
+  "stack": "container"
 }
