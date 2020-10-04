@@ -1,0 +1,14 @@
+{
+  "name": "Sshwifty",
+  "description": "Sshwifty Web SSH & Telnet Client",
+  "keywords": ["Sshwifty","SSH"],
+  "env": {
+    "SSHWIFTY_SHAREDKEY": {
+       "description": "WEB ACCESS PASSWORD",
+       "value": "password"
+     }
+  },
+  "website": "https://github.com/nirui/sshwifty",
+  "repository": "https://github.com/zwypfdsj/sshwifty-heroku",
+  "image": "niruix/sshwifty"
+ }
